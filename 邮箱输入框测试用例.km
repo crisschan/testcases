@@ -1,0 +1,483 @@
+{
+    "root": {
+        "data": {
+            "id": "cdriun4cx280",
+            "created": 1629785805890,
+            "text": "邮箱输入框"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cdrivdoevts0",
+                    "created": 1629785863699,
+                    "text": "功能性",
+                    "layout_mind_offset": {
+                        "x": -122,
+                        "y": -95.33333333333331
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cdrivf6xrd40",
+                            "created": 1629785866996,
+                            "text": "输入内容"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdriw8daqz40",
+                                    "created": 1629785930508,
+                                    "text": "正确格式"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "英文@英文.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "数字@英文.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "英文和数字@英文.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "英文和符合规范的字符@英文.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "英文、数字和符合规范的字符@英文.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "英文@数字.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "数字@数字.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "英文和数字@数字.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "英文和符合规范的字符@数字.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdriwamnqxk0",
+                                            "created": 1629785935427,
+                                            "text": "英文、数字和符合规范的字符@数字.英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrj8hoxvnc0",
+                                            "created": 1629786891173,
+                                            "text": "其他符合规范的组合"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrj8yfcvow0",
+                                    "created": 1629786927598,
+                                    "text": "不输入"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrj91n2q0o0",
+                                    "created": 1629786934595,
+                                    "text": "空格"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrj96875140",
+                                            "created": 1629786944580,
+                                            "text": "只有空格"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrj997dw280",
+                                            "created": 1629786951061,
+                                            "text": "空格在首"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrj9c5h2800",
+                                            "created": 1629786957476,
+                                            "text": "空格在尾"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrj9dt15oo0",
+                                            "created": 1629786961077,
+                                            "text": "空格在中间"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrj9grrw480",
+                                            "created": 1629786967531,
+                                            "text": "空格@英文.英文"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrj9x7h8zs0",
+                                    "created": 1629787003309,
+                                    "text": "特殊字符"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrj9ynzquo0",
+                                            "created": 1629787006485,
+                                            "text": "特殊字符"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrja117ho00",
+                                            "created": 1629787011637,
+                                            "text": "特殊字符@英文.英文"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrje581phk0",
+                                    "created": 1629787334215,
+                                    "text": "数字"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrje91tdt40",
+                                            "created": 1629787342545,
+                                            "text": "整数"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrjedhh5a00",
+                                                    "created": 1629787352199,
+                                                    "text": "正"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrjef6lci80",
+                                                    "created": 1629787355894,
+                                                    "text": "负"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrjefuu2c00",
+                                                    "created": 1629787357360,
+                                                    "text": "0"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjeb7ltj40",
+                                            "created": 1629787347249,
+                                            "text": "浮点数"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrjedhh5a00",
+                                                    "created": 1629787352199,
+                                                    "text": "正"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrjef6lci80",
+                                                    "created": 1629787355894,
+                                                    "text": "负"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrjefuu2c00",
+                                                    "created": 1629787357360,
+                                                    "text": "0"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrjgrdh8w00",
+                                    "created": 1629787539161,
+                                    "text": "中文"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrjgsmfr600",
+                                            "created": 1629787541879,
+                                            "text": "全部中文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjgu4nvso0",
+                                            "created": 1629787545158,
+                                            "text": "包含中文"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrjfn2gwtk0",
+                            "created": 1629787451424,
+                            "text": "有效性",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrjcoy27940",
+                                    "created": 1629787220418,
+                                    "text": "."
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrjcq246w80",
+                                            "created": 1629787222840,
+                                            "text": "无."
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjcreh0sg0",
+                                            "created": 1629787225764,
+                                            "text": ".在首"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjd13u5bs0",
+                                            "created": 1629787246889,
+                                            "text": ".在尾"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjd3estu80",
+                                            "created": 1629787251905,
+                                            "text": ".在中间，但是在@前，@后无."
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjf0sgr7s0",
+                                            "created": 1629787402929,
+                                            "text": "多个."
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrjbvfnhuo0",
+                                    "created": 1629787156178,
+                                    "text": "@"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrjbwealz40",
+                                            "created": 1629787158273,
+                                            "text": "无@"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjbxnfllk0",
+                                            "created": 1629787161002,
+                                            "text": "@在首"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjc2mpgvs0",
+                                            "created": 1629787171842,
+                                            "text": "@在尾"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjc4amo0w0",
+                                            "created": 1629787175466,
+                                            "text": "@在中间但是和.位置不对"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrjeyhgsvk0",
+                                            "created": 1629787397911,
+                                            "text": "多个@"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrivhd8s4g0",
+                            "created": 1629785871731,
+                            "text": "长度"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrjdfh9shc0",
+                                    "created": 1629787278176,
+                                    "text": "数据库长度限制"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrjdljui7c0",
+                                            "created": 1629787291392,
+                                            "text": "包含@后的长度"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cdrjkzmwyc80",
+                    "created": 1629787870602,
+                    "text": "安全性"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cdrdukhfyrs0",
+                            "created": 1629771694602,
+                            "text": "SQL注入"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrdunzmeso0",
+                                    "created": 1629771702231,
+                                    "text": "' or 1=1 --"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdut2w9p40",
+                                    "created": 1629771713313,
+                                    "text": "其他"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
