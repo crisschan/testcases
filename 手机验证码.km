@@ -1,0 +1,721 @@
+{
+    "root": {
+        "data": {
+            "id": "cdrcttcu6740",
+            "created": 1629768814440,
+            "text": "手机验证码"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cdrcw3a2lco0",
+                    "created": 1629768992769,
+                    "text": " 功能性",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cdrcw3a2cew0",
+                            "created": 1629768992769,
+                            "text": " 手机号码",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrcw3a2boo0",
+                                    "created": 1629768992769,
+                                    "text": " 国际区号",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a2sw00",
+                                            "created": 1629768992769,
+                                            "text": " 中国+86"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a2ss80",
+                                            "created": 1629768992769,
+                                            "text": " 中国台湾+886"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a2i140",
+                                            "created": 1629768992769,
+                                            "text": " 中国香港+852"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a2ork0",
+                                            "created": 1629768992769,
+                                            "text": " 中国澳门+853"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a2q5c0",
+                                            "created": 1629768992769,
+                                            "text": " 其他"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a3cs00",
+                                    "created": 1629768992770,
+                                    "text": " 手机格式验证"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a3eq00",
+                                    "created": 1629768992770,
+                                    "text": " 最多输入长度"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a37s00",
+                                    "created": 1629768992770,
+                                    "text": " 非数字字符"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a3bo80",
+                                    "created": 1629768992770,
+                                    "text": " 不输入提示"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a3a3k0",
+                                    "created": 1629768992770,
+                                    "text": " 输入错误提示",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a354o0",
+                                            "created": 1629768992770,
+                                            "text": " 中间空格"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a2x940",
+                                            "created": 1629768992770,
+                                            "text": " 英文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a3eyo0",
+                                            "created": 1629768992770,
+                                            "text": " 特殊字符"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a3f8g0",
+                                            "created": 1629768992770,
+                                            "text": " 其他非纯数字组合"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a34zk0",
+                                            "created": 1629768992770,
+                                            "text": " 非固定运营商开头前缀"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a40ko0",
+                                    "created": 1629768992771,
+                                    "text": "首尾空格",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a3zjk0",
+                                            "created": 1629768992771,
+                                            "text": "  自动过滤",
+                                            "resource": [
+                                                "mybe"
+                                            ]
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrcw3a3yao0",
+                            "created": 1629768992771,
+                            "text": " 发送验证码按钮",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrcw3a3o680",
+                                    "created": 1629768992771,
+                                    "text": " 成功发送"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a3mqg0",
+                                    "created": 1629768992771,
+                                    "text": " 有效期内",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a3ziw0",
+                                            "created": 1629768992771,
+                                            "text": " 不可重复发送",
+                                            "expandState": "expand",
+                                            "resource": [
+                                                "mybe"
+                                            ]
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrcw3a3mxk0",
+                                                    "created": 1629768992771,
+                                                    "text": " 冷却时间（也叫CD时间）",
+                                                    "resource": [
+                                                        "mybe"
+                                                    ],
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cdrcw3a3qm00",
+                                                            "created": 1629768992771,
+                                                            "text": " 时间内无法发送",
+                                                            "resource": [
+                                                                "mybe"
+                                                            ]
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cdrcw3a40sw0",
+                                                            "created": 1629768992771,
+                                                            "text": " 时间外可再次发送",
+                                                            "resource": [
+                                                                "mybe"
+                                                            ]
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrcw3a40io0",
+                                                    "created": 1629768992771,
+                                                    "text": " 无CD时间",
+                                                    "expandState": "expand",
+                                                    "resource": [
+                                                        "mybe"
+                                                    ]
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cdrcw3a402g0",
+                                                            "created": 1629768992771,
+                                                            "text": "随意发送"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a3uo00",
+                                            "created": 1629768992771,
+                                            "text": " 可重复发送",
+                                            "resource": [
+                                                "mybe"
+                                            ],
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrcw3a47cw0",
+                                                    "created": 1629768992772,
+                                                    "text": " 有效期内发送无更改",
+                                                    "resource": [
+                                                        "mybe"
+                                                    ]
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrcw3a44140",
+                                                    "created": 1629768992772,
+                                                    "text": "有效期内发送随机不固定",
+                                                    "resource": [
+                                                        "mybe"
+                                                    ]
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrcw3a4c1c0",
+                                                    "created": 1629768992772,
+                                                    "text": "有效时间内发送次数",
+                                                    "resource": [
+                                                        "mybe"
+                                                    ]
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a44480",
+                                    "created": 1629768992772,
+                                    "text": " CD时间内相同手机号码发送次数限制",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a4jxc0",
+                                            "created": 1629768992772,
+                                            "text": " CD时间相同账号的发送次数小于限制"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a4c3s0",
+                                            "created": 1629768992772,
+                                            "text": "CD时间相同账号发送次数大于限制"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrcw3a45000",
+                            "created": 1629768992772,
+                            "text": " 短信话术",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrcw3a4ri00",
+                                    "created": 1629768992773,
+                                    "text": " 与约定内容一致"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a55280",
+                                    "created": 1629768992773,
+                                    "text": " 验证码发送正确",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a55h40",
+                                            "created": 1629768992773,
+                                            "text": "有效期外多次发送随机无规律",
+                                            "resource": [
+                                                "mybe"
+                                            ]
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrcw3a4r3c0",
+                            "created": 1629768992773,
+                            "text": " 验证码",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrcw3a4ogw0",
+                                    "created": 1629768992773,
+                                    "text": " 正确",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a4ns00",
+                                            "created": 1629768992773,
+                                            "text": " 正确验证码"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a4xig0",
+                                            "created": 1629768992773,
+                                            "text": " 包含正确验证码",
+                                            "expandState": "expand",
+                                            "resource": [
+                                                "mybe"
+                                            ]
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrcw3a4ts00",
+                                                    "created": 1629768992773,
+                                                    "text": "正确验证码是前缀"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrcw3a4rkw0",
+                                                    "created": 1629768992773,
+                                                    "text": " 正确验证码是后缀"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a55v40",
+                                    "created": 1629768992773,
+                                    "text": " 长度正确，字符串不一致"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a4zw00",
+                                    "created": 1629768992773,
+                                    "text": " 长度不正确，字符串不一致"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a5phk0",
+                                    "created": 1629768992774,
+                                    "text": " 不输入"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a5jio0",
+                                    "created": 1629768992774,
+                                    "text": " 空格",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a5pqg0",
+                                            "created": 1629768992774,
+                                            "text": " 空格在头尾",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrcw3a5jjc0",
+                                                    "created": 1629768992774,
+                                                    "text": " 自动过滤"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a5ly00",
+                                            "created": 1629768992774,
+                                            "text": " 空格在中间"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a5tio0",
+                                    "created": 1629768992774,
+                                    "text": " 超过有效期的验证码"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a5pm80",
+                                    "created": 1629768992774,
+                                    "text": " 手机号码A输入了手机号码B的有效验证码"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cdrcw3a5f140",
+                    "created": 1629768992774,
+                    "text": " 安全性",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cdrcw3a5hu80",
+                            "created": 1629768992774,
+                            "text": " 无效",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrcw3a5fz40",
+                                    "created": 1629768992774,
+                                    "text": " 通过截获登录请求，修改验证码非法验证码",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a65i80",
+                                            "created": 1629768992775,
+                                            "text": " 非法内容依从功能性的验证码部分"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a5vtk0",
+                                    "created": 1629768992775,
+                                    "text": " 通过截获登录请求，修改手机号码",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a6ego0",
+                                            "created": 1629768992775,
+                                            "text": " 手机号码的输入依从功能性的手机号码部分"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrcw3a65rs0",
+                            "created": 1629768992775,
+                            "text": " 短息轰炸",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrcw3a6cyw0",
+                                    "created": 1629768992775,
+                                    "text": " 有短信发送CD时间",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a63b40",
+                                            "created": 1629768992775,
+                                            "text": " CD间隔内发送同一个手机号码"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a6a7s0",
+                                    "created": 1629768992775,
+                                    "text": " 无短信发送CD时间",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a5uds0",
+                                            "created": 1629768992775,
+                                            "text": " 在约束限制内随意调取短信接口，发送短信给同一个手机号码"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrcw3a68c00",
+                            "created": 1629768992775,
+                            "text": " 暴力破解",
+                            "resource": [
+                                "mybe"
+                            ],
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrcw3a66dc0",
+                                    "created": 1629768992775,
+                                    "text": " 纯数字",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a64400",
+                                            "created": 1629768992775,
+                                            "text": "固定位数"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a6cww0",
+                                            "created": 1629768992775,
+                                            "text": "非固定位数"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a6t200",
+                                    "created": 1629768992776,
+                                    "text": " 数字英文",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a6f480",
+                                            "created": 1629768992776,
+                                            "text": "固定位数"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrcw3a6wzc0",
+                                            "created": 1629768992776,
+                                            "text": "非固定位数"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrcw3a6y5c0",
+                            "created": 1629768992776,
+                            "text": " SQL注入",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrcw3a6ogw0",
+                                    "created": 1629768992776,
+                                    "text": "‘ or 1=1 --"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrcw3a701s0",
+                                    "created": 1629768992776,
+                                    "text": "等其他内容"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

@@ -1,0 +1,357 @@
+{
+    "root": {
+        "data": {
+            "id": "cdrdodlhrl40",
+            "created": 1629771209424,
+            "text": "图片验证码"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cdrdp2tswr40",
+                    "created": 1629771264346,
+                    "text": "功能性"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cdrdp4pejq80",
+                            "created": 1629771268434,
+                            "text": "验证码图片"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrdp7a690w0",
+                                    "created": 1629771274043,
+                                    "text": "刷新"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrdp8x1k000",
+                                            "created": 1629771277603,
+                                            "text": "点击刷新"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrdpa8equo0",
+                                            "created": 1629771280467,
+                                            "text": "提交刷新"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrdpcf8yu80",
+                                                    "created": 1629771285234,
+                                                    "text": "验证码错误刷新"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdplqk2yg0",
+                                    "created": 1629771305509,
+                                    "text": "展示"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrdpna7f400",
+                                            "created": 1629771308874,
+                                            "text": "正常显示"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrdpozh5nk0",
+                                            "created": 1629771312578,
+                                            "text": "网络异常，无法显示"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrdpsrlbfk0",
+                                                    "created": 1629771320809,
+                                                    "text": "点击刷新，展示心情求的验证码图片"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrdq2o7svk0",
+                            "created": 1629771342372,
+                            "text": "输入验证码"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrdq4bg9rs0",
+                                    "created": 1629771345954,
+                                    "text": "正确"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrdq6w8je00",
+                                            "created": 1629771351565,
+                                            "text": "全部正确的验证码"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrdq9ethm00",
+                                            "created": 1629771357042,
+                                            "text": "部分正确"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrdqc3cj8o0",
+                                                    "created": 1629771362878,
+                                                    "text": "正确验证码是前缀"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cdrdqef1of40",
+                                                    "created": 1629771367939,
+                                                    "text": "正确验证码是后缀"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdqijmw000",
+                                    "created": 1629771376924,
+                                    "text": "不输入"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdqjbe5yo0",
+                                    "created": 1629771378602,
+                                    "text": "空格"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cdrdql66x4g0",
+                                            "created": 1629771382641,
+                                            "text": "空格在头尾"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cdrdqp7395s0",
+                                                    "created": 1629771391403,
+                                                    "text": "自动过滤",
+                                                    "resource": [
+                                                        "mayby"
+                                                    ]
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cdrdr61q5bs0",
+                                            "created": 1629771428084,
+                                            "text": "空格在中间"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdr91drj40",
+                                    "created": 1629771434593,
+                                    "text": "长度不正确"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdrcuufvk0",
+                                    "created": 1629771442905,
+                                    "text": "长度正确，字符串不一致"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdrfkwh880",
+                                    "created": 1629771448834,
+                                    "text": "输入另外一个电脑（浏览器）的正确验证码"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdrrjj7740",
+                                    "created": 1629771474873,
+                                    "text": "验证码过期后，再次输入已经过期的验证码"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrdrxszgm00",
+                            "created": 1629771488505,
+                            "text": "验证码复杂度越约束",
+                            "resource": [
+                                "mayby"
+                            ]
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrds6sh1740",
+                                    "created": 1629771508065,
+                                    "text": "符合常规识别操作"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrds9zbb400",
+                                    "created": 1629771515009,
+                                    "text": "绝大部分用户，在验证码失效时间内，可以正确识别和完成输入"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdshn0m9k0",
+                                    "created": 1629771531680,
+                                    "text": "验证码设计符合人的正常理解"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdsomok7s0",
+                                    "created": 1629771546897,
+                                    "text": "对色盲人员同样可以完成识别和输入"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cdrdtqy93fk0",
+                    "created": 1629771630315,
+                    "text": "安全性"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cdrdtsbyuyw0",
+                            "created": 1629771633321,
+                            "text": "通过截获消息，修改成非法验证码"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrdtz7g1js0",
+                                    "created": 1629771648285,
+                                    "text": "非法内容依从功能性的非法内容"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrdty43x740",
+                            "created": 1629771645906,
+                            "text": "暴力破解"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrdu70eay80",
+                                    "created": 1629771665273,
+                                    "text": "符合验证码长度规则和字符要求"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrducy6tjk0",
+                            "created": 1629771678200,
+                            "text": "ocr识别"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrdueq03uw0",
+                                    "created": 1629771682059,
+                                    "text": "OCR识别准确率0.1%"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cdrdukhfyrs0",
+                            "created": 1629771694602,
+                            "text": "SQL注入"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cdrdunzmeso0",
+                                    "created": 1629771702231,
+                                    "text": "' or 1=1 --"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cdrdut2w9p40",
+                                    "created": 1629771713313,
+                                    "text": "其他"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
